@@ -15,7 +15,7 @@ class MainApp extends StatelessWidget {
         appBar: AppBar(
           title: const Align(
             alignment: Alignment.center,
-            child: Text('Birdle'),
+            child: Text('Birdle Game'),            
           ),
         ),
         backgroundColor: Colors.blueGrey.shade50,
